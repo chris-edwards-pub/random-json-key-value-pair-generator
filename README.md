@@ -32,5 +32,6 @@ $ python generate.py 10 | jq
 ## Install
 
 Mac:
-* clone repo
-* pipenv shell && pipenv install
+* Requires python
+* Clone repo
+* run `pipenv shell && pipenv install`
