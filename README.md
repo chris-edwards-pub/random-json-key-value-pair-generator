@@ -1,4 +1,4 @@
-# Random JSON Key:Pair Generator
+# Random JSON Key:Value Pair Generator
 
 This simple script take an engish dictionary of words and mand makes random key value pairs.  The dictionary has approx 270k words.
 
