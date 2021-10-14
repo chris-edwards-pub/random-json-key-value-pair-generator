@@ -1,14 +1,14 @@
 # Random JSON Key:Pair Generator
 
-This simple script take an engish dictionary of words and mand makes random key value pairs.  The dictionary is approx 270k.  
+This simple script take an engish dictionary of words and mand makes random key value pairs.  The dictionary has approx 270k words.
 
 ## Usage:
 
-Just run python random_json_keypair_generator.py followed by the number of pairs you want to produce.
+Just run python generate.py followed by the number of pairs you want to produce.
 
 
 ```sh
-$ python random_json_keypair_generator.py 10 | jq                  
+$ python generate.py 10 | jq
 {
   "thundercrack": "quanted",
   "hongs": "atrophic",
