@@ -28,3 +28,9 @@ $ python generate.py 10 | jq
 * Its does not check for duplicates.
 * Its not pretty output. If you wan't it pretty pipe it to jq.
 * We can't save to a file so pipe it '>' to a file if need be.
+
+## Install
+
+Mac:
+* clone repo
+* pipenv shell && pipenv install
