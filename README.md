@@ -4,7 +4,7 @@ This simple script take an engish dictionary of words and mand makes random key 
 
 ## Usage:
 
-Just run python generate.py followed by the number of pairs you want to produce.
+Just run python generate.py followed by the number of key:value pairs you want to produce.
 
 
 ```sh
