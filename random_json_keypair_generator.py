@@ -11,8 +11,8 @@ def random_word(words):
   word = random.choice(list(words))
   return word
 
-my_parser = argparse.ArgumentParser(description='Random JSON Key:Pair Generator')
-w
+my_parser = argparse.ArgumentParser(description='Random Key:Pair Json Generator')
+
 my_parser.add_argument('Pairs', metavar='pairs', type=int, help='number of key:value pairs to generate')
 args = my_parser.parse_args()
 pairs = args.Pairs
